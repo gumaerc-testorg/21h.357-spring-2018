@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains the course topics and key due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 4eaef571-baf3-6ca8-d73e-9ce865ce5717
 ---
