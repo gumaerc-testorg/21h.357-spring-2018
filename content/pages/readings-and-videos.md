@@ -44,7 +44,7 @@ Ghosh, Amitav. *Sea of Poppies: A Novel*. Picador, 2009. ISBN: 9780312428594. \[
 Labor
 {{< tdclose >}}{{< tdopen >}}
 
-Bahadur, Gauitra. “[Her Middle Passage](https://caravanmagazine.in/reporting-and-essays/her-middle-passage).” *The Caravan*, August 31, 2011.
+Bahadur, Gauitra. “[Her Middle Passage](https://caravanmagazine.in/labour/her-middle-passage).” *The Caravan*, August 31, 2011.
 
 Lal, Brij V. “[Kunti’s Cry: Indentured Women on Fiji Plantations](https://journals.sagepub.com/doi/abs/10.1177/001946468502200103?journalCode=iera).” *Indian Economic & Social History Review* 22, no. 1 (1985): 55–71.
 
