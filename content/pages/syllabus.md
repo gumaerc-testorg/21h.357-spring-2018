@@ -25,11 +25,11 @@ Millions of South Asians have left their home in the Indian subcontinent since t
 Required Readings
 -----------------
 
-Ghosh, Amitav. _Sea of Poppies: A Novel_. Picador, 2009. ISBN: 9780312428594. \[Preview with [Google Books](https://books.google.com/books?id=pwIi9mhjgZ4C&pg=PAfrontcover#v=onepage&q&f=false)\]
+Ghosh, Amitav. _Sea of Poppies: A Novel_. Picador, 2009. ISBN: 9780312428594. \[Preview with {{% resource_link "51a1963a-ee84-4e31-8f77-b7c2e78858dd" "Google Books" %}}\]
 
-Kimani, Peter. _Dance of the Jakaranda_. Akashic Books, 2017. ISBN: 9781617754968. \[Preview with [Google Books](https://books.google.com/books?id=hcH5DQAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Kimani, Peter. _Dance of the Jakaranda_. Akashic Books, 2017. ISBN: 9781617754968. \[Preview with {{% resource_link "ea3c3d93-168d-480a-9e48-5df12f7c5e9b" "Google Books" %}}\]
 
-Hamid, Mohsin. _The Reluctant Fundamentalist_. Harvest Books, 2008. ISBN: 9780156034029. \[Preview with [Google Books](https://books.google.com/books?id=acUQTlO713cC&pg=PAfrontcover#v=onepage&q&f=false)\]
+Hamid, Mohsin. _The Reluctant Fundamentalist_. Harvest Books, 2008. ISBN: 9780156034029. \[Preview with {{% resource_link "067661d2-7ff6-4e8e-b5cc-fef2cfdc3b3b" "Google Books" %}}\]
 
 Additional readings can be found in the {{% resource_link 7927eabd-9269-f438-7b06-dc2a0a40cb6f "Readings and Videos" %}} section.
 
