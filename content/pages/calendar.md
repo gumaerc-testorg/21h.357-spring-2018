@@ -236,7 +236,7 @@ Individual Meetings with Instructor
 
 _In-class viewing and discussion:_
 
-[_Hasan Minhaj: Homecoming King_](https://www.imdb.com/title/tt6900644/?ref_=nv_sr_3). Directed by Christopher Storer. Color, 73 min. 2017.
+{{% resource_link "b8bfa661-5f79-4993-bb42-1a33cdd655ed" "_Hasan Minhaj: Homecoming King_" %}}. Directed by Christopher Storer. Color, 73 min. 2017.
 
 
 {{< tdclose >}}
